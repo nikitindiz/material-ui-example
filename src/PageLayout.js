@@ -16,6 +16,8 @@ import ListItemText from '@material-ui/core/ListItemText';
 import InboxIcon from '@material-ui/icons/MoveToInbox';
 import MailIcon from '@material-ui/icons/Mail';
 
+import { typography } from '@material-ui/system';
+
 import './PageLayout.css';
 
 export default class PageLayout extends React.Component {
